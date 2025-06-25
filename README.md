@@ -1,5 +1,7 @@
 # 🐧 Automated Linux Helper - By Hina Atif
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 A beginner-friendly shell script that automates daily Linux commands used by Cloud and DevOps engineers.
 
 ---
@@ -11,17 +13,18 @@ A beginner-friendly shell script that automates daily Linux commands used by Clo
 - Show disk space (`df -h`)
 - Memory usage (`free -h`)
 - Process monitor (`top`)
-- Create files and folders
-- Beginner-friendly terminal tool
+- Create files and folders  
+✅ Beginner-friendly terminal tool  
 
 ---
 
 ## 🚀 How to Use
 
-> Run this on any **Linux system**, **Git Bash**, or **EC2 instance**:
+Run this on any Linux system, Git Bash, or EC2 instance:
 
 ```bash
 git clone https://github.com/Hina-Atif/automated-linux-helper.git
 cd automated-linux-helper
-chmod +x linux-helper.sh
+chmod +x linux-helper.sh   # Only on Linux
 ./linux-helper.sh
+
