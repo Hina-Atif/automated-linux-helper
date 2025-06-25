@@ -21,16 +21,17 @@ A beginner-friendly shell script that automates daily Linux commands used by Clo
 ## 📸 Screenshots
 
 ### 1. Git Init  
-![Git Init](assets/screenshot1-git-init.png)
+![Git Init](assets/screenshot1-git-init.png.jpg)
 
 ### 2. Git Push  
-![Git Push](assets/screenshot2-git-push.png)
+![Git Push](assets/screenshot2-git-push.png.jpg)
 
 ### 3. README Preview in VSCode  
-![README Preview](assets/screenshot3-readme-preview.png)
+![README Preview](assets/screenshot3-readme-preview.png.jpg)
 
 ### 4. Linux Cheat Sheet Gist Linked  
-![Linux Gist](assets/screenshot4-gist-linked.png)
+![Linux Gist](assets/screenshot4-gist-linked.png.jpg)
+
 
 ---
 
