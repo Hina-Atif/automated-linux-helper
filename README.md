@@ -45,3 +45,10 @@ cd automated-linux-helper
 chmod +x linux-helper.sh   # Only on Linux
 ./linux-helper.sh
 
+---
+
+## 📘 Blog Post
+Detailed project explanation on Medium:
+🔗 https://medium.com/...
+
+
